@@ -1,0 +1,345 @@
+/* common shared style */
+
+
+/* header section style */
+.banner {
+    background-image: url('/images/Banner\ Image.png');
+
+    margin: 50px 140px 120px;
+    background-repeat: no-repeat;
+
+}
+
+.first-header {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400px;
+    padding: 150px 300px 0px;
+    font-family: Merriweather;
+
+}
+
+.second-header {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    padding: 0px 200px 100px;
+    font-family: Merriweather;
+
+}
+
+/* offer section style */
+.offer-head-1st {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 120px;
+}
+
+.offer-head-2nd {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 45px;
+}
+
+.offer-head-3rd {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offer {
+    text-align: center;
+    padding: 200 px;
+}
+
+/* party section style */
+.party-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+
+.party-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.party-footer {
+    color: #FFF;
+    background: transparent !important;
+    border: none;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.party {
+    background-image: url('/images/Vectorrr.png');
+    margin: 120px 140px;
+    padding: 120px 200px 120px 150px;
+    background-repeat: no-repeat;
+}
+
+/* celebration section style */
+.celebration {
+    background-color: hsl(0, 100%, 96%);
+    margin: 120px 140px 130px;
+    padding: 100px 300px 45px;
+    padding-bottom: 110px;
+}
+
+.celebration-info {
+    color: black;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.celebration span {
+    color: #F00;
+}
+
+.celebration-btn {
+
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+    background: #F00;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    align-items: center;
+
+}
+
+.celebration-btn-div {
+    text-align: center;
+}
+
+/* best offer section */
+.best-offer-column {
+    display: flex;
+}
+
+.best-offer {
+    margin: 120px;
+}
+
+.best-offer-column1 h5 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.best-offer-column1 h3 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.best-offer-column1 p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 325px;
+}
+
+.best-offer-column2 {
+    border-radius: 500px;
+    border: 15px solid #F00;
+    margin: 0px 110px 0px 70px;
+}
+
+.best-offer-column3 h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.best-offer-column3 p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* holiday sell section style */
+.holiday-sale {
+    margin: 0px 140px;
+    background-image: url('/images/Rectangle\ 2.png'), url(/images/Rectangle\ 1.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom, right center;
+    background-size: auto, 420px 425px;
+}
+
+.holiday-sale h4 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.holiday-sale h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+
+}
+
+.holiday-sale h1 span {
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.holiday-sale p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.image1 {
+    width: 750px;
+    text-align: left;
+}
+
+.image2 {
+    text-align: center;
+}
+
+/* products section style */
+.products {
+    margin: 120px 80px;
+}
+
+.products h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.products h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.products p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.products img {
+    border-radius: 16px;
+    padding: 0px 10px 10px 0px;
+}
+
+/* subscribe section style */
+.subscribe {
+    margin: 0px 140px 120px;
+    padding: 80px 240px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+}
+
+.subscribe h3 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.subscribe p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.subscribe div {
+    border-radius: 50px;
+    background: #FFF;
+    width: 648px;
+    height: 72px;
+    justify-content: space-between;
+    align-content: center;
+    display: flex;
+    padding: 5px 30px;
+}
+
+.subscribe input button {
+    border: 0px;
+}
+
+.subscribe input {
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.subscribe button {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
