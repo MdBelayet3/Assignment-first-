@@ -24,7 +24,12 @@ This project was built as part of my learning journey in web development. Throug
 - Styling layouts using CSS  
 - Using Google Fonts for better typography  
 - Creating multiple sections like real-world landing pages  
-- Organizing assets like images and styles  
+- Organizing assets like images and styles
+
+## Live Website
+
+https://newyearcelebration2025.netlify.app/
+
 
 
 ##  Technologies Used
@@ -36,10 +41,12 @@ This project was built as part of my learning journey in web development. Throug
 
 ## Features
 
--  Attractive New Year themed design  
+-  Attractive New Year-themed design  
 -  Responsive layout (basic)  
 -  Multiple sections (banner, offer, party, portfolio, etc.)  
 -  Image-based UI design  
 -  Newsletter subscription input field  
 -  Footer with social media icons  
 
+## Image view
+![Image](https://github.com/MdBelayet3/Assignment-first-/blob/main/Assignment-first.png?raw=true)
